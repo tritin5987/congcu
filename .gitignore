@@ -1,0 +1,17 @@
+# Thư mục build
+/target/
+/build/
+
+# File cấu hình IDE
+/.idea/
+/.vscode/
+/*.iml
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+
+# Thông tin nhạy cảm
+.env
+application.properties
+application.yml
